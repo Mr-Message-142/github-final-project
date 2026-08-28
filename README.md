@@ -44,3 +44,5 @@ Therefore, the Simple Interest is **₹1,000**.
 ## Conclusion
 
 The Simple Interest Calculator provides a quick and easy way to calculate simple interest using the standard simple interest formula.
+# Simple Interest Calculator Project
+
