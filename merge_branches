@@ -1,0 +1,8 @@
+$ git checkout main
+Switched to branch 'main'
+
+$ git merge bug-fix-typo
+Updating 43f811a..eaed243
+Fast-forward
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
